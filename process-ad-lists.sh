@@ -25,6 +25,7 @@ for URL in `cat list.list`; do
   # Download the file
   echo ${URL}  ${file_name}
   curl -s ${URL} -o ${file_name} && cat ${file_name} >> blocked.list && rm -f ${file_name}
+  #curl -s ${URL} -o ${file_name} && cat ${file_name} >> blocked.list
 done
 
 # Remove duplicate lines
