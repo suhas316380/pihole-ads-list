@@ -30,3 +30,5 @@ done
 # Remove duplicate lines
 perl -i -ne 'print if ! $a{$_}++' blocked.list
 
+# Remove lines starting with "#"
+sed -i '/^#/ d' blocked.list
