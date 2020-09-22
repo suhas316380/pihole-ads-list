@@ -33,3 +33,6 @@ perl -i -ne 'print if ! $a{$_}++' blocked.list
 
 # Remove lines starting with "#"
 sed -i '/^#/ d' blocked.list
+
+# Remove 127.0.0.1, 0.0.0.0, ::, ^M and leading white spaces
+sed -i -e 's/^127.0.0.1//' -e 's/^0.0.0.0//' -e '/::/d' -e 's/\r//g' -e "s/^[ \t]*//" blocked.list
