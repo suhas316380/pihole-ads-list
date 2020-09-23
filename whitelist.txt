@@ -292,3 +292,4 @@ entitlement.auth.adobe.com
 livepassdl.conviva.com
 lm.licenses.adobe.com
 activate.adobe.com
+kinesis.us-east-1.amazonaws.com
