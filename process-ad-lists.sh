@@ -36,3 +36,7 @@ sed -i -e 's/^127.0.0.1//' -e 's/^0.0.0.0//' -e '/::/d' -e 's/\^//' -e 's/^||//'
 
 # Remove duplicate lines
 perl -i -ne 'print if ! $a{$_}++' blocked.list
+
+# move youtube domains to a file
+sed -nr '/googlevideo.com/p' blocked.list > youtube.list
+sed -i '/googlevideo.com/d' blocked.list
