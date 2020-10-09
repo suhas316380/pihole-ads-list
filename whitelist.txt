@@ -293,3 +293,6 @@ livepassdl.conviva.com
 lm.licenses.adobe.com
 activate.adobe.com
 kinesis.us-east-1.amazonaws.com
+api.lever.co
+sentry.io
+api-js.mixpanel.com
