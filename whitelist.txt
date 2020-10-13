@@ -296,3 +296,4 @@ kinesis.us-east-1.amazonaws.com
 api.lever.co
 sentry.io
 api-js.mixpanel.com
+d2wy8f7a9ursnm.cloudfront.net
