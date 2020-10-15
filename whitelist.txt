@@ -273,10 +273,8 @@ www.refersion.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 redirector.googlevideo.com
-# Share buttons on websites
 dsms0mj1bbhn4.cloudfront.net
 shareaholic.com
-# Sky Go (skygo.sky.de)
 assets.adobedtm.com
 adf.ly
 www.adf.ly
