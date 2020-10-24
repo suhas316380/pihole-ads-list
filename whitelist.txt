@@ -298,3 +298,4 @@ d2wy8f7a9ursnm.cloudfront.net
 speeddials.opera.com
 af.opera.com
 api.recsys.opera.com
+boards.greenhouse.io
