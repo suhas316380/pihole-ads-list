@@ -302,3 +302,5 @@ boards.greenhouse.io
 newre-conversions.clickmeter.com
 static.tacdn.com
 s920311406.t.en25.com
+click.e.progressive.com
+alexa.com
