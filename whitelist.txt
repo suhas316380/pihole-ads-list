@@ -304,3 +304,5 @@ static.tacdn.com
 s920311406.t.en25.com
 click.e.progressive.com
 alexa.com
+d.joinhoney.com
+s.joinhoney.com
