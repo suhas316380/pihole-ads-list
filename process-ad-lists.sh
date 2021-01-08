@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# set working dir to script dir
+cd "$(dirname "$0")"
+
 rm -f blocked.list
 
 # Read URLs from list.list
