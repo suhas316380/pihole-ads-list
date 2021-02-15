@@ -309,3 +309,4 @@ s.joinhoney.com
 u7104752.ct.sendgrid.net
 tracking.costco.com
 post.spmailtechno.com
+api.ipstack.com
