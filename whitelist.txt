@@ -310,3 +310,4 @@ u7104752.ct.sendgrid.net
 tracking.costco.com
 post.spmailtechno.com
 api.ipstack.com
+s2.coinmarketcap.com
