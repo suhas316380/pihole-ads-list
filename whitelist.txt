@@ -312,3 +312,4 @@ post.spmailtechno.com
 api.ipstack.com
 s2.coinmarketcap.com
 wl.spotify.com
+smartasset.com
